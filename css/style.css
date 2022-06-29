@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+
+:root {
+    --cyan: hsl(179, 62%, 43%);
+    --bright__yellow: hsl(71, 73%, 54%);
+    --light__gray: hsl(204, 43%, 93%);
+    --grayish__blue: hsl(218, 22%, 67%);
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
